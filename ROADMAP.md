@@ -9,7 +9,7 @@ examples, and is finished to a usable v1 before the next one starts.
 ## Backlog
 - [x] Tool 1: `expense-tracker` v1 (add / list / summary / budget / CSV export)
 - [ ] expense-tracker: CSV import (bank statement) and recurring expenses
-- [ ] Tool 2: `tcmb-rates` – TCMB exchange-rate CLI (today.xml parser, converter, cache)
+- [x] Tool 2: `tcmb-rates` – TCMB exchange-rate CLI (today.xml parser, converter, cache)
 - [ ] Tool 3: `flashcards` – spaced-repetition (SM-2) flashcard CLI with CSV/Markdown decks
 - [ ] Tool 4: `pomodoro` – Pomodoro timer + study planner with exam countdown
 - [ ] Tool 5: `dup-finder` – duplicate file finder (size → hash) with safe dry-run delete
@@ -22,4 +22,5 @@ examples, and is finished to a usable v1 before the next one starts.
 - [ ] Tool 12: `gpa-calculator` – Turkish 4.0 / 100 scale GPA & what-if calculator
 
 ## Changelog
+- 2026-11-12 – `tcmb-rates` v1: list/get/convert, dated archive with weekend fallback, offline cache.
 - 2026-11-11 – Project scaffold (LICENSE, CI, ROADMAP) and `expense-tracker` v1.
