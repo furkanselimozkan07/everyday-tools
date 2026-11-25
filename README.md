@@ -6,6 +6,7 @@ Each tool is self-contained in `tools/<name>/` (README, code, tests). See [ROADM
 |------|-------------|--------|
 | [expense-tracker](tools/expense-tracker) | SQLite-backed expense CLI with categories, monthly summaries, budgets and CSV export (₺) | v1 |
 | [tcmb-rates](tools/tcmb-rates) | TCMB exchange-rate CLI: list, get, convert (Decimal, dated archive, offline cache) | v1 |
+| [flashcards](tools/flashcards) | SM-2 spaced-repetition flashcards with CSV/Markdown deck import and interactive review | v1 |
 
 ## Development
 ```bash
